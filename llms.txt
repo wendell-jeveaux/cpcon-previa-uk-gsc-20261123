@@ -1,0 +1,52 @@
+# CPCON UK
+
+> CPCON is an international fixed asset management and inventory specialist with more than 2,600 clients, more than 4,500 projects delivered in more than 40 countries and more than 1,200 professionals within the CPCON ecosystem. Group headquarters in New York, United States, with branch offices in Orlando and Miami; offices or representation in 9 countries (United States, Mexico, Brazil, Spain, United Arab Emirates, Argentina, Colombia, Chile and Peru). The United Kingdom is served by the group. cpcongroup.uk is CPCON's United Kingdom site, covering fixed asset verification, asset tagging, RFID asset tracking, stocktaking services and asset valuation, written in British English for UK organisations.
+
+CPCON is independent: not an audit firm and not a software vendor. Deliverables are designed around UK requirements — FRS 102 Section 17 (property, plant and equipment), the FRS 102 Periodic Review amendments effective 1 January 2026, Companies Act 2006 s.386 (adequate accounting records, including "statements of stocktakings"), ISA (UK) 501 (auditor attendance at physical inventory counting), RICS Valuation – Global Standards (Red Book) methodology, and capital allowances under CAA 2001 (full expensing, AIA, the new 40% first-year allowance from January 2026 and writing down allowances).
+
+Contact: contact@cpcongroup.com (no UK office address or telephone yet — email is the canonical contact channel).
+
+## Services
+- [Fixed Asset Verification](https://cpcongroup.uk/fixed-asset-verification): wall-to-wall physical verification, register reconciliation, ghost asset identification, audit-ready reporting.
+- [Asset Tagging](https://cpcongroup.uk/asset-tagging): durable barcode, QR and RFID asset labels applied on site with structured data capture.
+- [RFID Asset Tracking](https://cpcongroup.uk/rfid-asset-tracking): UHF RFID tags, readers and reconciliation software — up to 90% faster counts, 99%+ accuracy, ERP integration.
+- [Stocktaking Services](https://cpcongroup.uk/stocktaking-services): independent retail, warehouse and hospitality stocktakes with variance and shrinkage reporting.
+- [IT Asset Inventory & Audit](https://cpcongroup.uk/it-asset-inventory): wall-to-wall IT device verification, tagging and reconciliation to CMDB, ITAM and fixed asset register — the inventory evidence behind clients' ISO 27001 (Annex A 5.9), Cyber Essentials, UK GDPR Article 30 and SOC 2 assessments (CPCON produces the evidence; it is not a certification body).
+- [Asset Valuation](https://cpcongroup.uk/asset-valuation): plant & machinery, insurance/reinstatement cost and business valuations aligned with RICS Red Book methodology.
+- [Cycle Counting](https://cpcongroup.uk/cycle-counting): perpetual inventory programmes with ABC count frequencies, blind counts and root-cause variance investigation — the alternative to the annual stocktake.
+- [Stock Reconciliation](https://cpcongroup.uk/stock-reconciliation): book-to-physical reconciliation — counted quantities matched to ERP/WMS line by line, variances cause-coded, adjustments governed with an audit trail.
+- [Shrinkage Control](https://cpcongroup.uk/shrinkage-control): stock loss measured and located by SKU/site/period, separated into theft, supplier failure, process loss and admin error, then fixed at cause.
+- [Independent Stock Audit](https://cpcongroup.uk/independent-stock-audit): third-party stock counts for year-end (structured for auditor attendance under ISA (UK) 501), lenders, insurers, disputes and 3PL custody evidence.
+- [Intangible Asset Valuation](https://cpcongroup.uk/intangible-asset-valuation): brand, IP, customer relationship and goodwill valuations — purchase price allocation, FRS 102 Section 18 amortisation support, Section 27 impairment testing inputs.
+
+## Industries
+- [Industries overview](https://cpcongroup.uk/industries): sector-specific delivery of the same verify–tag–reconcile–report methodology.
+- [Manufacturing](https://cpcongroup.uk/industries/manufacturing): plant & machinery verification, tooling/jigs/moulds registers, component accounting under FRS 102 s.17, WIP stocktakes, capital allowances evidence.
+- [Healthcare](https://cpcongroup.uk/industries/healthcare): medical equipment audits for NHS and private providers; ward-by-ward verification reconciled to EBME/clinical engineering records and the fixed asset register.
+- [Retail](https://cpcongroup.uk/industries/retail): overnight multi-site retail stocktaking, SKU-level variance and shrinkage by category, store asset verification, RFID item-level counting.
+- [Energy & Utilities](https://cpcongroup.uk/industries/energy-utilities): generation, network and treatment asset verification; componentised registers; the asset data behind regulated asset base reporting.
+- [Financial Services](https://cpcongroup.uk/industries/financial-services): audit-ready fixed asset registers, leased/right-of-use asset completeness (FRS 102 s.20 / IFRS 16), branch and IT estates reconciled to CMDB.
+- [Logistics & Warehousing](https://cpcongroup.uk/industries/logistics-warehousing): bin-level warehouse stock counts, WMS reconciliation, 3PL client stock audits, bonded stock, MHE asset registers.
+
+## Guides
+- [Fixed Asset Register: FRS 102 Guide + Free Template](https://cpcongroup.uk/fixed-asset-register-frs-102): compliant register fields, FRS 102 Section 17, the 1 January 2026 Periodic Review changes, free CSV template.
+- [Capital Allowances on Plant & Machinery: 2026 Guide](https://cpcongroup.uk/capital-allowances): full expensing, £1M AIA, new 40% FYA, WDA 18%→14% change, and the asset records behind a defensible claim.
+- [ISO 27001 Annex A 5.9: The Asset Inventory Your Auditor Expects](https://cpcongroup.uk/iso-27001-asset-inventory): what the 2022 control requires, two-way auditor sampling, the Cyber Essentials overlap, and building an inventory that survives both.
+- [ITAM & CMDB: Why Your CMDB Lies Without a Physical Audit](https://cpcongroup.uk/itam-cmdb-audit): CMDB drift, the limits of discovery tooling, serial-level physical reconciliation, and the capital allowances angle on IT refresh.
+- [Free Stock Count Sheet Template (CSV)](https://cpcongroup.uk/stock-count-template): print-ready count sheet with location/bin/SKU/quantity/variance and dual sign-off columns, plus the count procedure and Companies Act 2006 s.386(4) context.
+
+## Insights
+
+- [Need cash? Start with the stock nobody wants to look at](https://cpcongroup.uk/insights/excess-stock-how-to-release-cash): idle stock as locked working capital, IAS 2 lower of cost and net realisable value, and channels to turn surplus stock into cash.
+
+## Company
+- [About CPCON UK](https://cpcongroup.uk/about): history, global footprint and partners.
+- [Our Experience](https://cpcongroup.uk/our-experience): 4,500+ projects in more than 40 countries: methodology, technology and sectors served.
+- [Contact](https://cpcongroup.uk/contact): enquiry form; responses within one business day.
+
+## Sister sites
+- United States: https://cpcongroup.com
+- Brazil: https://grupocpcon.com
+- Mexico: https://cpcongroup.mx
+- Spain: https://cpcongroup.es
+- United Arab Emirates: https://cpcongroup.ae
